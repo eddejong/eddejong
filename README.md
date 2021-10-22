@@ -1,7 +1,7 @@
 - Hi, I’m Ed de Jong from Rotterdam / Netherlands
 - I’m interested in programming in general (since COBOL, Z80 assembler and C)
-- NODE and NPM
-- all things programming - I'm old skool
+- GIT, NODE and NPM
+- All things programming - I'm old skool
 - eddejong.zoiets@gmail.com
 
 <!---
